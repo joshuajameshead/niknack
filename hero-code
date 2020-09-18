@@ -1,5 +1,4 @@
-<script>
-  // Configure
+// Configure
     var MAX_DISTANCE  = 200,
         PARTICLES     = 40,
         PARTICLE_SIZE = 5;
@@ -217,4 +216,3 @@
         // stats.end();
       }; loop();
     });
-</script>
